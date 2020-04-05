@@ -6,14 +6,20 @@ An ATM machine has a computer program which interact with clients for daily with
 
 The ATM tend only Rs 100 and Rs 200 bank notes and apply the following rules
 
+
 • Minimum withdrawn amount is Rs 100,
+
 • Maximum withdrawn amount is Rs 1000,
+
 • The amount to be withdrawn must be a multiple of Rs 100 e.g Rs 100, Rs 200, Rs300,Rs400….Rs1000. Quotient (DIV) and Remainder (MOD)
 
 To calculate how many Rs 100 banknotes and how many Rs 200 banknotes correspond to the requested amount, the ATM program uses two arithmetic operators called DIV and MOD. The quotient (DIV) returns the result of the whole division.
 
 For instance: 700 DIV 200 = 3 The remainder (MOD) returns the remainder of the whole division. For instance: 700 MOD 200 = 100 By using these operators, we can deduct that Rs 700 will result in:
+
+
 • 700 DIV 200 = 3 bank notes of Rs 200
+
 • 700 MOD 200 = 100 (= 1 bank note of Rs 100)
 
 
