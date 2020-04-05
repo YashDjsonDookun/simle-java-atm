@@ -1,4 +1,4 @@
-/*StudentID: 1810111
+/*
  *StudentName: Yash Djson Dookun
  *Task: Write a Java Program to implement the ATM machine. Your program should display messages as per the flow of events
  */
